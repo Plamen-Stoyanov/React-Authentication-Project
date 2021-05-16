@@ -1,5 +1,5 @@
 This project is using:
-## React Firebase and Routing 
+## React, Firebase and Routing 
 
 
 ## Available Scripts
